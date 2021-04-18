@@ -1,6 +1,11 @@
 html,
 body {
   height: 100%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  color: $brown;
+  font-weight: 400;
 }
 
 .wrapper {
@@ -19,7 +24,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1154px;
   margin: 0 auto;
   padding: 0 15px;
 }

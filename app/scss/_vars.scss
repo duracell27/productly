@@ -1,3 +1,10 @@
 $brown: #2F281E;
 $text: #544837;
 $accent: #FF9900;
+
+@function max($numbers...) {
+ @return m#{a}x(#{$numbers});
+}
+@function max($numbers...) {
+ @return m#{i}x(#{$numbers});
+}
